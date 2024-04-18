@@ -1,0 +1,22 @@
+Course Number: MEA0573
+Occupational Completion Point: E
+Laboratory Procedures – 125 Hours – SOC Code 31-9092
+35.0	Perform CLIA-waived diagnostic clinical laboratory procedures. -- The students will be able to:
+35.01	Comply with safety signs, symbols, and labels.
+35.02	Recognize signs and symptoms that may indicate to the physician a need for laboratory testing.
+35.03	Describe the criteria used by Food and Drug Administration (FDA) to classify a test as “CLIA waived” and the regulatory constraints on test performance.
+35.04	Explain the methods of quality control for CLIA-waived testing, identify acceptable and unacceptable control results, and describe specific corrective action required when results are unacceptable.
+35.05	Demonstrate proper technique for the collection of urine, capillary whole blood (finger/heel stick), culture material (throat/nasal swab) and other specimen types required for CLIA-waived tests.
+35.06	Instruct patients in the proper collection of urine (clean catch, mid-stream), sputum, and stool specimens.
+35.07	Perform CLIA-waived occult blood tests.
+35.08	Perform CLIA-waived urinalysis testing including color and turbidity assessment and reagent test strips.
+35.09	Perform CLIA-waived hematology tests (e.g. - hemoglobin, hematocrit).
+35.10	Perform CLIA-waived chemistry tests (e.g. - glucose, cholesterol).
+35.11	Perform CLIA-waived pregnancy tests.
+35.12	Perform CLIA-waived infectious disease testing (e.g. – strep screen, mono test, influenza A/B).
+36.0	Demonstrate knowledge of emergency preparedness and protective practices. -- The student will be able to:
+36.01	Maintain and operate emergency equipment and supplies.
+36.02	Participate in a mock environmental exposure event and document steps taken.
+36.03	Explain an evacuation plan for a physician’s office.
+36.04	Maintain a current list of community resources for emergency preparedness.
+

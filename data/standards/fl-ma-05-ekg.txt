@@ -1,0 +1,30 @@
+Course Number: MEA0543
+Occupational Completion Point: D
+EKG Aide, MA – 75 Hours – SOC Code 31-9099
+25.0	Describe the cardiovascular system. – The student will be able to:
+25.01	Locate the heart and surrounding structures.
+25.02	Diagram and label the parts of the heart and list the functions of each labeled part.
+25.03	Trace the flow of blood through the cardiopulmonary system.
+26.0	Identify legal and ethical responsibilities of an EKG aide. – The student will be able to:
+26.01	Recognize and practice legal and ethical responsibilities as they relate to an EKG aide.
+26.02	Maintain a safe and efficient work environment.
+26.03	Maintain EKG equipment so it will be safe and accurate.
+27.0	Perform patient care techniques in the health care facility. – The student will be able to:
+27.01	Describe the physical preparation of the patient for EKG testing.
+27.02	Identify patient and verify the requisition order.
+27.03	Prepare patient for EKG testing.
+27.04	State precautions required when performing an EKG.
+28.0	Demonstrate knowledge of, apply and use medical instrumentation modalities. – The student will be able to:
+28.01	Calibrate and maintain EKG equipment in the work environment.
+28.02	Identify three types of lead systems (standard/limb, augmented, and precordial/chest).
+28.03	State Einthoven's triangle.
+28.04	Demonstrate proper lead placement including lead placement with special consideration for various patients with special needs.
+28.05	Demonstrate knowledge of the application of a Holter Monitor and provide patient education of its use.
+28.06	Identify artifacts and mechanical problems.
+28.07	Perform a 12 lead EKG.
+28.08	Perform a rhythm strip.
+28.09	Recognize normal sinus rhythm.
+28.10	Report any dysrhythmias that are not normal sinus rhythm.
+28.11	Recognize a cardiac emergency as seen on the EKG.
+28.12	Use documentation skills to identify electrocardiographs.
+

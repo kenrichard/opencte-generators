@@ -1,0 +1,60 @@
+1. Entrepreneurial and Small Business Concepts
+1.1 Identify the foundational concepts of entrepreneurship and small business ownership
+1.1.1 Define entrepreneurship and small business
+1.1.2 Classify types of businesses
+1.1.3 Identify various legal structures of a business
+1.1.4 Identify roles and responsibilities within a business
+1.1.5 Define business compensation structures
+1.1.6 Define business life cycle stages
+1.1.7 Identify elements of the design thinking process
+1.2 Identify knowledge and skills of a successful entrepreneur
+1.2.1 Identify characteristics of an entrepreneurial mindset
+1.2.2 Identify the risks, benefits, opportunities, and drawbacks of being an entrepreneur
+1.3 Recognize potential business opportunities
+1.3.1 Identify characteristics of a business opportunity
+1.3.2 Determine the viability of a business opportunity
+1.4 Identify the elements of a business plan
+1.4.1 Identify the purposes and value of a business plan, pitch deck, and lean canvas
+1.4.2 Define the key components of a business plan and pitch deck
+1.5 Identify intellectual property concepts
+1.5.1 Differentiate between trademarks, trade secrets, copyrights, and patents
+1.5.2 Identify the value, risks, and guidelines associated with using licensed materials
+2. Marketing and Sales
+2.1 Interpret market research
+2.1.1 Define target market, value proposition, and pricing
+2.1.2 Distinguish between primary and secondary data
+2.1.3 Evaluate competition
+2.1.4 Complete a SWOT analysis
+2.2 Analyze aspects of marketing processes
+2.2.1 Identify marketing platforms
+2.2.2 Apply marketing methods
+2.2.3 Analyze market reactions and sales data
+2.2.4 Analyze customer acquisition costs and retention costs
+2.2.5 Identify elements of a marketing plan
+2.3 Identify sales channel strategies
+2.3.1 Identify elements of a sales process
+2.3.2 Identify key characteristics of digital and physical sales channels
+2.3.3 Define various types of sales channels
+2.3.4 Identify the role of customer service and support in sales strategies
+3. Production and Distribution
+3.1 Identify the value of a Minimum Viable Product
+3.1.1 Define elements of product/market fit hypothesis
+3.1.2 Define performance/quality criteria
+3.2 Identify supply chain and production processes
+3.2.1 Identify the knowledge and materials needed to create a product or service
+3.2.2 Identify production options for digital and physical products and services
+3.2.3 Identify quality control testing processes for digital and physical products and services, including adherence to government regulatory and safety requirements
+3.3 Identify distribution channels
+3.3.1 Identify types and factors in the selection of distribution channels
+3.3.2 Identify differences between direct distribution and fulfillment services
+4. Business Financials
+4.1 Analyze business financials
+4.1.1 Determine the selling price of a product or service
+4.1.2 Interpret basic financial statements such as income sheets and balance sheets
+4.1.3 Differentiate between fixed and variable costs
+4.1.4 Analyze a company’s cash flow
+4.1.5 Calculate the ROI of a product or service
+4.2 Analyze funding options
+4.2.1 Determine operating budget and start-up costs
+4.2.2 Identify various funding options
+4.2.3 Identify requirements for obtaining funding

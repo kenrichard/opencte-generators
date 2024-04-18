@@ -1,0 +1,72 @@
+1.0 Communication: Demonstrate methods of delivering and obtaining information, while communicating effectively.
+1.1 Concepts of Effective Communication
+1.1.1 Model verbal and nonverbal therapeutic communication: Active listening, Reflecting, Silence, Summarizing,
+1.1.2.1 Physical disabilities: Aphasia, Developmental level, Hearing loss, Impaired vision,
+1.1.2.2 Psychological barriers: Attitudes, Bias, Prejudice, Stereotyping,
+1.1.2.3 Language barriers
+1.1.3 Distinguish between subjective and objective information.
+1.1.4 Interpret elements of communication using sender-message-receiver feedback model.
+1.1.5 Modify communication to meet the needs of the patient/client and be appropriate to the situation.
+1.1.6 Describe appropriate interactions with patients throughout various stages of psychosocial development.
+1.2 Medical Terminology
+1.2.1 Interpret common medical abbreviations to communicate information specific to course content.
+2.0 Teamwork: Identify roles and responsibilities of individual members as part of the healthcare team.
+2.1 Evaluate roles and responsibilities of healthcare team members.
+2.2 Identify characteristics of effective teams: Collaboration, Defined roles, Effective communication, Effective leadership, Measurable processes and outcomes, Mutual respect, Shared goals,
+2.3 Team Member Participation
+2.3.1 Recognize methods for building positive team relationships.
+2.3.2 Analyze attributes and attitudes of an effective leader.
+2.3.2.1 Characteristics:Focused and driven,Interpersonal skills,Motivates and inspires,Organized and balanced,
+2.3.2.2 Types:Autocratic,Democratic,Laissez faire,
+2.3.2.3 Roles: Communicates vision, Leads change, Manages accountability,
+2.3.4 Apply effective techniques for managing team conflict: Communicate assertively, Gather the facts, Mediate disputes, Negotiate resolutions, Set clear expectations,
+2.3.5 Evaluate why teamwork is an important part of healthcare and how it improves patient care.
+3.0 Health Maintenance Practices: Differentiate between wellness and disease. Promote disease prevention and model healthy behaviors.
+3.1 Healthy Behaviors
+3.1.1 Promote self-care behaviors of health and wellness: Exercise, Nutrition, Relationships, Sleep habits, Stress management, Weight control,
+3.1.2 Examine various aspects of behavioral health: Anxiety Depression Substance abuse Suicide
+3.1.3 Describe public health strategies for prevention of disease: Community health education outreach programs, Immunizations, Medical, dental, and mental health screenings, Routine physical exams, Self-care behaviors,
+3.1.4 Investigate complementary and alternative health practices as they relate to wellness and disease prevention: Eastern medicine, Holistic medicine, Homeopathic medicine, Manipulative medicine,
+3.2 Healthcare Across the Lifespan
+3.2.1 Discuss physical, mental, social and behavioral development and its impact on healthcare.
+3.2.2 Identify socioeconomic determinants of health and wellness.
+4.0 Safety Practices:  Identify existing and potential hazards to clients, co-workers, and self. Employ safe work practices and follow health and safety policies and procedures to prevent injury and illness.
+4.1 Infection Control
+4.1.1 Explain principles of infection transmission.
+4.1.1.1 Identify classifications of pathogens: Bacteria, Fungi, Parasites, Protozoa, Viruses,
+4.1.1.2 Describe characteristics of microorganisms: Aerobic, Anaerobic, Non-pathogenic,
+a. Pathogenic
+4.1.1.3 Recognize chain of infection
+4.1.1.4 Describe mode of transmission: Common vehicle (air, food, water), Direct, Healthcare-associated infections (nosocomial), Indirect, Opportunistic, Vectors,
+4.1.2 Differentiate methods of controlling the spread and growth of pathogens.
+4.1.2.1 Asepsis: Antisepsis, Disinfection, Sanitization, Sterile technique, Sterilization,
+4.1.1.2 Standard precautions: Environmental cleaning, Handwashing, Gloving, Personal Protective Equipment (PPE),
+4.1.2.3 Isolation precautions: Transmission-based contact
+4.1.2.4 Bloodborne pathogen precautions
+4.1.2.5 Vaccinations
+4.2 Personal Safety
+4.2.1 Apply personal safety procedures based on Occupational Safety and Health Administration (OSHA) and Centers for Disease Control (CDC) regulations.
+4.2.2 Demonstrate principles of body mechanics during patient care:  Ambulating, Lifting, Positioning,
+4.2.3 Demonstrate and apply the use of personal protective equipment (PPE).
+4.3 Environmental Safety
+4.3.1 Apply safety techniques in the work environment: Ergonomics, Patient/client/employee safety measures, Safe operation of equipment,
+4.4 Common Safety Hazards
+4.4.1 Observe all safety standards related to the occupational exposure to hazardous chemicals standard (safety data sheets [SDS]).
+4.4.2 Comply with safety signs, symbols, and labels.
+4.5 Emergency Procedures and Protocols
+4.5.1 Practice fire safety in a healthcare setting.
+4.5.2 Apply principles of basic emergency response in natural disasters and other emergencies (safe location, contact emergency personnel, follow facility protocols).
+5.0 Technical Skills:  Apply technical skills required for all career specialties and demonstrate skills and knowledge as appropriate.
+5.1 Obtain training or certification in: Automated external defibrillator (AED), Cardiopulmonary resuscitation (CPR), First aid, Foreign body airway obstruction (FBAO),
+6.0 Employability Skills:  Utilize employability skills to enhance employment opportunities and job satisfaction.
+6.1 Personal Traits of the Health Professional
+6.1.1 Identify personal traits and attitudes desirable in a career ready member of a health team: Acceptance of criticism, Competence, Dependability, Discretion, Empathy, Enthusiasm, Honesty, Initiative, Integrity, Patience, Positive Attitude, Responsibility, Self-motivation, Social and cultural competence, Tact, Team player, Willingness to learn,
+6.1.2 Summarize professional standards as they apply to hygiene, dress, language, confidentiality and behavior.
+6.2 Employability Skills
+6.2.1 Apply employability skills in healthcare: Chain of command, Communication skills, Customer service, Decision making, Flexible, Organization, Problem solving, Scope of practice, Time management, Work ethic,
+6.3 Career Decision-making
+6.3.1 Research levels of education, credentialing requirements, and employment trends in health professions.
+6.3.2 Distinguish differences among careers within a health science pathway: Biotechnology research and development, Diagnostic services, Health informatics, Support services, Therapeutic services,
+6.4 Employability Preparation
+6.4.1 Develop components of a personal portfolio: Community Service / Service Learning, Credentials, Leadership examples, Mock interview, Oral report, Personal statement, Professional/student organization memberships, Resume, Sample projects, Technology skills, Work-based learning documentation, Writing sample,
+6.4.2 Identify strategies for pursuing employment. Employer websites, Internships, Personal networking, Social media,

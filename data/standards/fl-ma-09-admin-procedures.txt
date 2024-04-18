@@ -1,0 +1,9 @@
+Course Number: MEA0506
+Occupational Completion Point: E
+Administrative Office Procedures– 90 Hours – SOC Code 31-9092
+37.0	Perform administrative office duties. – The student will be able to:
+37.01	Execute data management using Electronic Health Record (EHR) including, but not limited to, patient registration, appointment scheduling, charting, billing and insurance processing, procedure and diagnostic coding, ordering and monitoring patient testing, medication and prescription orders, keyboarding and correspondence, and performing an office inventory.
+37.02	Execute non EHR data management including, but not limited to, selecting appropriate procedure and diagnostic codes, process insurance data and claims, develop and maintain billing and collection systems.
+37.03	Perform various financial procedures, including, but not limited to, billing and collection procedures, payroll procedures, and checkbook procedures.
+37.04	Demonstrate knowledge of management in a medical office including but not limited to personnel records, interviewing, various management styles, risk management, and conflict resolution.
+

@@ -1,0 +1,21 @@
+Course Number: MEA0530
+Occupational Completion Point: E
+Pharmacology for Medical Assisting – 90 Hours – SOC Code 31-9092
+34.0	Demonstrate knowledge of pharmaceutical principles and administer medications. – The student will be able to:
+34.01	Identify commonly administered drugs, their uses, and effects.
+34.02	Identify the major classifications of medications for each body system including, indications for use, side effects, and adverse reactions.
+34.03	Use correct pharmaceutical abbreviations and terminology.
+34.04	Identify various methods and routes of drug administration.
+34.05	Instruct patients regarding self-administration of medications.
+34.06	Calculate dosage and administer pharmaceuticals to correct anatomical sites, to correct patient, by correct route of administration, at the correct time, and document correctly.
+34.07	Demonstrate knowledge of the legal and ethical standards related to the administration and the dispensing of drugs in the office setting under the doctor's supervision.
+34.08	Demonstrate knowledge of emergency medications for first aid.
+34.09	Identify the dangers and complications associated with drug administration
+34.10	Recognize and report medication errors.
+34.11	Demonstrate appropriate techniques to:
+34.11.01	Prepare and administer non-parenteral medications (solid, liquids, and inhalers).
+34.11.02	Prepare and administer parenteral medications.
+34.11.03	Reconstitute powdered drugs.
+34.11.04	Prepare injections from ampules and vials.
+34.11.05	Apply the Seven Rights of Drug Administration
+

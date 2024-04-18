@@ -1,0 +1,224 @@
+Front-End Web Development
+Course Descriptions & Learning Outcomes
+Course Name WEB-3001C: Introduction to the Web Development Degree Program
+Description An introduction to the Front-End Web Development degree and a bridging module for new
+students. Topics include the history of the Internet and World Wide Web as well as
+foundational skills in using code editors, registering domains, using web servers, version
+control, and other web-related technologies and topics. Students will also research possible
+career paths in web development.
+Student
+Learning
+Outcomes
+• Understand the origins and history of the Internet and World Wide Web
+• Differentiate popular code editors and integrated development environments (IDE)
+• Register a personal domain name and select a server to host your web sites
+• Employ methods of version control such as Git and Github
+• Identify current coding languages and web frameworks
+• Compare and evaluate popular Content Management Systems
+• Evaluate career paths in the field of web development
+Notes: This is the bridging module for all new students
+Course Name WEB-3020C: Front-End Web Development I
+Description An introduction to the basics of front-end web development with a concentration on coding
+semantic HTML and CSS. Students will gain a foundational understanding of coding static
+web pages through a variety of hands-on projects.
+Student
+Learning
+Outcomes
+• Generate static web pages using Hypertext Markup Language (HTML)
+• Control the appearance of elements with Cascading Style Sheets (CSS)
+• Use CSS to define content areas and control the layout of a web page
+Course Name WEB-3021C: Front-End Web Development II
+Description A continuation of the production methods introduced in Front-End Web Development I.
+Students will learn advanced CSS page layout techniques through a series of hands-on
+projects. This course also introduces students to additional topics such as adapting pages
+for mobile devices, user experience, and basic interactivity.
+Student
+Learning
+Outcomes
+• Apply advanced CSS properties to a web page
+• Create advanced page layout models with CSS grid
+• Describe the importance of User Interface and User Experience Design
+• Implement the basic concepts of Responsive Design for mobile devices
+• Demonstrate awareness of the Document Object Model
+• Add basic interactivity to a web page using a scripting framework
+Notes: This course only uses JS frameworks like jQuery, not “vanilla” JavaScript scripting
+Course Name WEB-3031C: Responsive Web Design
+Description Introduction to the latest methods and practical applications of responsive design in frontend web development. Students will learn how to create websites that adapt to a variety of
+devices and screen sizes, including desktops, tablets, and phones.
+Student
+Learning
+Outcomes
+• Explain the concepts and principles of responsive web design
+• Create web sites that follow a “mobile-first” design philosophy
+• Generate a series of media queries to detect and adapt web content for mobile devices
+• Construct pages that seamlessly adapt to phone and tablet screen sizes
+• Understand the unique user experience challenges presented by mobile devices
+Notes: Prerequisite: WEB-3020C Front-End Web Development I
+Course Name WEB-3040C: JavaScript I
+Description This course teaches the fundamentals of client-side programming with JavaScript. Students
+will learn how to implement and create scripts that make web pages more interactive,
+generate or modify HTML and CSS, and add dynamic functionality to a web page.
+Student
+Learning
+Outcomes
+• Develop familiarity with the ECMAScript language
+• Use the Document Object Model (DOM) to generate and modify HTML and CSS
+• Differentiate when to use a JavaScript framework or to code raw JavaScript
+• Generate scripts that properly employ objects, methods, properties, and variables
+• Practice handling and preventing scripting errors
+Notes: Prerequisite: WEB-3020C Front-End Web Development I
+Course Name WEB-3041C: JavaScript II
+Description An advanced-level scripting course that continues the concepts introduced in JavaScript I.
+Students will build practical, real-world, dynamic web sites and applications. Covers objectoriented design and scripting, user interface design and implementation, and
+communicating with databases and web servers.
+Student
+Learning
+Outcomes
+• Compose dynamic interactive web pages
+• Identify basic data structures (arrays, variables, data types, expressions)
+• Define the differences between procedural and object-oriented programming
+• Execute JavaScript advanced functions to access databases and server-side information
+Notes: Prerequisite: WEB-3040C JavaScript I
+Course Name WEB-3050C: User Experience & User Interface Design
+Description This course delves into the principles of Usability, User Experience, and User Interface for
+website and application development. Students will learn how to create intuitive and
+engaging user experiences through a series of case studies, prototyping tools, and hands-on
+examples. Topics such as user research, personas, heuristic evaluation, and information
+architecture will also be discussed.
+Student
+Learning
+Outcomes
+• Recognize and apply the principles of usability, user experience, and interface design
+• Identify designs and interfaces that are confusing and counterintuitive to users
+• Use prototyping tools to generate website mock-ups and prototypes
+• Construct wireframes to represent potential layouts and interface items
+• Generate “personas” to represent the interests and needs of desired users
+• Plan and conduct usability testing on a website
+Course Name WEB-3060: Ethics & Implications of Web Development
+Description Web developers and related professionals have a set of fundamental obligations to clients,
+peers, their profession, and society in general. This course focuses on the ways in which
+web development decision-making intersects with issues such as crime, ethics, intellectual
+property, law, morals, privacy, and society.
+Student
+Learning
+Outcomes
+• Identify economic, legal, philosophical, political, and social issues related to web
+development
+• Distinguish between the benefits and risks of various web technologies
+• Analyze the moral, legal, and ethical issues that affect the integrity of the profession
+• Develop a website that demonstrates awareness of the ethical and social issues pertinent
+to a specific audience
+Course Name WEB-4020C: Web Frameworks I
+Description Introduction to client-side development frameworks and their role in web development.
+Students will be introduced to several popular web frameworks and apply their unique
+syntaxes and methods to create static and dynamic websites.
+Student
+Learning
+Outcomes
+• Recognize conditions where using a web framework would be beneficial
+• Create websites using popular client-side frameworks such as Bootstrap
+• Retrieve asynchronous data using methods such as AJAX
+• Understand the unique qualities of LESS, SASS, Tailwind, Bulma, or other currently
+popular frameworks
+• Identify the basic syntax structure of ReactJS
+Notes: Prerequisites: WEB-3020C Front-End Web Development I and WEB-3040C JavaScript I
+Course Name WEB-4021C: Web Frameworks II
+Description A continuation of the concepts introduced in Web Frameworks I. In this course students will
+use the React JS client-side library to create reusable web components and large
+applications with data that changes over time.
+Student
+Learning
+Outcomes
+• Develop dynamic front-end web applications
+• Generate proper working structures for ReactJS applications
+• Understand the benefits of unidirectional data flow
+• Apply ReactJS components
+• Use style components to create presentational components
+Notes: Prerequisite: WEB-4020C Web Frameworks I
+Course Name WEB-4022C: Web Frameworks III
+Description An advanced-level course that provides an in-depth understanding of the React JS
+framework. Provides training with end-to-end development of a full-fledged application with
+React, Redux, Redis, micro-services, Redux Thunk, and other associated technologies.
+Student
+Learning
+Outcomes
+• Understand and use advanced frameworks such as React, React Router, Redux, Redux
+Sage, or other popular libraries
+• Employ syntax extensions, JSX, props, state, and other advanced tools
+• Use current popular associated technologies such as Redux, Redis, micro-services, Redux
+Store, Redux Thunk, and Redux promises
+• Create, build, and deploy advanced React applications
+Notes: Prerequisite: WEB-4021C Web Frameworks II
+Course Name WEB-4030C: Web Content Management Systems I
+Description Introduction to the concepts, systems, and technical basis of popular web-based content
+management systems (CMS). Emphasis on using a CMS to rapidly develop a website or
+blog, install and customize themes, extend functionality with plug-ins, and generate content
+that can be updated and maintained by clients.
+Student
+Learning
+Outcomes
+• Recognize situations when it is appropriate to use a content management system (CMS)
+• Compare current popular open-source and corporate CMS platforms
+• Install a custom WordPress site on a personal server
+• Choose an existing theme and customize it with a child theme
+• Extend functionality with WordPress plug-ins
+• Employ the unique possibilities of content management technologies to acquire,
+organize, and present various types of web content
+Course Name WEB-4031C: Web Content Management Systems II
+Description An in-depth look at popular content management systems (CMS) and the technologies that
+make them work. This course will go beyond surface-level understanding and delve into the
+core technologies that make content management systems work. Students will modify
+existing resources as well as generate their own themes and plug-ins.
+Student
+Learning
+Outcomes
+• Understand the core syntax of PHP and how it is used to power a CMS
+• Recognize popular database systems and how they store data for a CMS
+• Create new WordPress themes and plug-ins
+• Identify on-line marketplaces for sharing or selling your themes and plug-ins
+Notes: Prerequisite: WEB-4030C Web Content Management Systems I
+Course Name WEB-4040C: Mobile Web Development
+Description In this course students will employ HTML, CSS, JavaScript, and React Native to develop
+mobile web applications for smart phones and other mobile devices. Topics include media
+queries, mobile user interfaces, and platform-specific and platform-independent
+development.
+Student
+Learning
+Outcomes
+• Use mobile development platforms to create applications for iOS and/or Android devices
+• Differentiate the unique aspects of the Apple and Android Developer Programs
+• Understand the difference between ReactJS and React Native and which is best for
+developing mobile vs. desktop applications
+• Operate mobile device testing environments
+Notes: Prerequisite: WEB-4021C Web Frameworks II
+Course Name WEB-4050C: Data Visualization
+Description This course teaches the fundamentals of data visualization for the web using an industry
+standard JavaScript library. Students will learn how to implement and create scripts that
+apply user interface and web development principles to data, generating various types of
+data visualizations to meet the needs of the user.
+Student
+Learning
+Outcomes
+• Develop familiarity with a current industry standard JavaScript library for creating data
+visualizations
+• Apply user interface and web development principles to develop data visualizations
+• Create basic data visualizations such as charts, graphs, maps, etc.
+• Develop interactive data visualizations
+• Tell data stories with visualizations that meet the needs of specific audiences and clients
+Notes: Prerequisite: WEB-3020C Front-End Web Development I, WEB-3040C JavaScript I, and WEB-3050C UX/UI
+Design
+Course Name WEB-4099C: Web Development Capstone
+Description In this course, students will integrate acquired front-end web development skills to create a
+culminating website project demonstrating a professional level of accomplishment.
+Students will also prepare to enter the workforce by developing a professional portfolio of
+work and résumé. Students will learn standard project management processes and effective
+strategies and solutions to meet client web communication needs.
+Student
+Learning
+Outcomes
+• Demonstrate mastery of chosen front-end web development skills
+• Develop a personal portfolio website
+• Update and refine a professional resume
+• Create professional social media and employment service accounts
+• Compare and evaluate relevant professional organizations
+• Employ the Agile framework to plan, manage, and execute a project

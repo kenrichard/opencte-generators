@@ -1,0 +1,70 @@
+Major Concepts:
+Customer Discovery Process: Understanding the importance of identifying and validating customer needs, problems, and behaviors through direct interaction.
+
+Value Proposition Development: Learning how to articulate the value a product or service provides to its target customers, based on insights gathered through interviews.
+
+Business Model Assumptions: Identifying and testing critical assumptions about the business model, including customer segments, channels, and customer relationships.
+
+Market Research Techniques: Employing various strategies to gather qualitative and quantitative data from potential customers and users.
+
+Entrepreneurial Networking: Leveraging social media, professional contacts, and other networks to connect with potential interviewees and advisors.
+
+Skills:
+Effective Communication: Developing skills in crafting outreach messages, conducting interviews, and engaging in meaningful conversations without introducing bias.
+
+Critical Listening: Learning to listen actively and empathetically to understand the customer's perspective, needs, and pain points.
+
+Analytical Thinking: Analyzing interview data to extract valuable insights, identify patterns, and make informed decisions about product development and market strategy.
+
+Networking and Relationship Building: Expanding one's professional network through strategic outreach and follow-ups, and learning to ask for referrals in a way that grows the network further.
+
+Pitching: Crafting and delivering a compelling verbal pitch that succinctly summarizes the business idea, its value proposition, and the problem it solves.
+
+Time Management and Planning: Scheduling and managing interviews, coaching sessions, and coursework within a tight timeframe, ensuring timely progress and adherence to deadlines.
+
+Adaptability and Learning from Feedback: Using feedback from interviews, coaching sessions, and pitch rehearsals to refine business assumptions, improve the value proposition, and enhance the business model.
+
+
+
+Customer Discovery: The process of identifying potential customers and learning about their needs, preferences, and behaviors.
+
+Value Proposition: A statement that explains how a product or service solves a problem or improves a situation for a customer, delivering specific benefits.
+
+Lean Startup: A methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable.
+
+Minimum Viable Product (MVP): The simplest version of a product that can be released to test a new business idea and gauge customer interest.
+
+Business Model Canvas: A strategic management template for developing new or documenting existing business models. It outlines nine segments which form the building blocks for a business.
+
+Customer Segment: A part of the target market that has been identified as the most likely to purchase a product or service, based on shared characteristics or needs.
+
+Market Segmentation: The process of dividing a target market into smaller, more defined categories.
+
+Pitch: A concise presentation that outlines the business idea, value proposition, market potential, and request for investment or support.
+
+Problem Statement: A clear description of an issue to be addressed or a condition to be improved upon.
+
+Customer Journey Map: A visual or graphical interpretation of the overall story from an individual's perspective of their relationship with an organization, service, product or brand, over time and across channels.
+
+Assumptions Testing: The process of validating or invalidating hypotheses about a business model or market to reduce uncertainty and risk.
+
+Feedback Loop: A system used to gather feedback from customers or users about a product or service to inform future development.
+
+Networking: The act of interacting with others to exchange information and develop professional or social contacts.
+
+Open-ended Questions: Questions that cannot be answered with a simple 'yes' or 'no' and encourage a full, meaningful answer using the subject's own knowledge and/or feelings.
+
+Qualitative Data: Data that approximates and characterizes. Qualitative data can be observed and recorded. This data type is non-numerical in nature.
+
+Quantitative Data: Data expressing a certain quantity, amount or range. Usually, there are measurement units associated with the data.
+
+Stakeholder: Any individual, group, or organization that can affect or be affected by a company's actions.
+
+User Persona: A semi-fictional character based on your current/most important customer or user types. These personas help in understanding the needs, experiences, behaviors, and goals of potential users.
+
+Prototype: An early sample, model, or release of a product built to test a concept or process.
+
+Iteration: A term used to describe a single development cycle in agile methodologies. It is a process of repeating and refining a cycle/process.
+
+
+

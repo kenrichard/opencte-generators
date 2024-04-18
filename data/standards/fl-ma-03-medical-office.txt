@@ -1,0 +1,19 @@
+Course Number: MEA0501
+Occupational Completion Point: B
+Medical Office Procedures – 75  Hours – SOC Code 43-4171
+15.0	Demonstrate basic clerical/medical office duties. – The student will be able to:
+15.01	Perform effective communication skills essential to the medical office.
+15.02	Maintain filing systems.
+15.03	Operate office equipment and perform clerical office procedures.
+15.04	Discuss principles of using electronic health record (EHR).
+15.05	Prepare and maintain medical records both manually and within the electronic health record (EHR).
+15.06	Screen and process mail.
+15.07	Schedule routine appointments and patient admissions and/or procedures both manually and within the electronic health record (EHR).
+15.08	 Adhere to current government regulations, risk management and compliance within the scope of practice of a medical assistant practicing in the State of Florida.
+15.09	Maintain office inventory.
+15.10	Inform patients of office policies both verbally and written.
+15.11	Perform general housekeeping duties.
+15.12	Perform daily office activities both manually and within the electronic health record (EHR).
+15.13	Receive patients and visitors.
+15.14	Identify and maintain office security policies/procedures.
+

@@ -1,0 +1,76 @@
+01.0	Define the role of individuals and families in the American economic system.  The student will be able to:
+01.01	Identify the importance of financially self-sufficient families to the stability of the American economic system.
+01.02	Identify the role and importance of the consumer in the economic system.
+01.03	Define consumer education terminology, including capitalism, resources, economic system, and supply and demand.
+01.04	Describe the characteristics of a free enterprise system.
+01.05	Summarize the laws of supply and demand and explain its importance in a free enterprise system.
+02.0	Apply the decision‑making process to personal and family financial choices.  The student will be able to:
+02.01	Discuss the importance of taking responsibility for personal financial decisions.
+02.02	Explain how personal financial resources affect the choices people make.
+02.03	Apply a decision-making process to making consumer choices concerning public transportation and vehicle ownership, including leasing versus owning and new versus used.
+02.04	Apply a decision-making process to making consumer choices concerning housing, including renting versus owning.
+02.05	Describe how shared decision-making regarding income allocation and expenditures works in a family setting.
+02.06	Explain the interrelationship of time, effort, and money to achieving personal and family goals.
+02.07	Identify the advantages and disadvantages of dual income families.
+02.08	Explain discretionary and disposable income and how it affects personal and family spending.
+03.0	Investigate strategies for managing personal and family income.  The student will be able to:
+03.01	Identify sources of income.
+03.02	Analyze how career choice affects income.
+03.03	Analyze how education and technical skills affect income.
+03.04	Relate personal income goals and financial goals to life events.
+03.05	Identify the opportunity cost of various financial decisions, including the costs of time, risk and resources.
+03.06	Explain the effects of inflation on purchasing power.
+03.07	Compare the advantages and disadvantages of different payment methods.
+03.08	Compare the advantages and disadvantages of various payment methods (i.e. digital and mobile, credit cards, automatic withdrawals, cash, etc.)
+03.09	Compare and contrast cost of living expenses in various locations.
+04.0	Demonstrate an understanding of services, functions, and products available from the financial industry.  The student will be able to:
+04.01	Identify rules and regulations of financial institutions pertaining to the consumer (i.e. FDIC, Dodd-Frank Act, etc.).
+04.02	Investigate money management tools (i.e. financial institutions, qualified financial planners, software, digital apps, etc.)
+04.03	Demonstrate knowledge of opening and managing bank accounts (checking and savings).
+04.04	Balance checking account.
+05.0	Evaluate consumer information to make informed buying decisions.  The student will be able to:
+05.01	Identify state and federal agencies that provide consumer protection.
+05.02	Describe the rights and responsibilities of buyers and sellers under consumer protection laws.
+05.03	Describe the effects of advertising on consumer purchases.
+05.04	Describe the effects of social media on consumer purchases.
+05.05	Investigate and evaluate consumer information regarding products and services (i.e. Consumer Reports, Layaway, etc.).
+05.06	Compare different credit plans such as revolving charge, 90‑day, installment accounts, and interest free.
+05.07	Demonstrate advocacy of personal financial relations with businesses (i.e. contest incorrect billing statements, loss of bank cards, etc.).
+05.08	Understand implications of your financial digital footprint (i.e. identify theft, scams, cyber-security, etc.).
+06.0	Demonstrate an understanding of the components of personal taxation related to individuals and families. The student will be able to:
+06.01	Explain the basic principles of taxation.
+06.02	List types and sources of taxes at the local, state and federal level.
+06.03	Describe how taxes are used for governmental services.
+06.04	Identify penalties related to non-payment of income tax.
+06.05	Explain the difference between gross and net income.
+06.06	Identify and complete forms used to file taxes (e.g. 1040A, 1040EZ, 1099, W-2, W-4 and bank statements).
+06.07	Calculate various taxes (i.e. FICA, SS, Medicare, Federal withholding, sales tax, etc.).
+07.0	Demonstrate an understanding of the purpose of wills, insurance and contracts.  The student will be able to:
+07.01	Identify the types of insurance needed by individuals and families.
+07.02	Describe how insurance and other risk-management strategies protect against financial loss.
+07.03	Recognize basic types of leases, service warranties and general sales/credit contracts that offer consumer protection.
+07.04	Identify reasons for making a will and related documents (i.e. Power of Attorney, Living Will, Health Care Surrogate, etc.) and why they are important in a financial plan.
+07.05	Identify strategies to select qualified professionals that provide insurance products, contracts, real estate and wills.
+07.06	Research the implications of receiving an inheritance.
+08.0	Explain and describe saving and investing.  The student will be able to:
+08.01	Describe reasons and methods for saving (i.e. emergency fund, pay yourself first, sinking funds, etc.).
+08.02	Describe reason and methods for investing (i.e. mutual funds, stocks, Roth IRA, etc.).
+08.03	Describe how to buy and sell investments.
+08.04	List the three American stock exchanges and the types of companies sold on each.
+08.05	Explain investor protection provided by agencies that regulate the financial markets (i.e. FDIC).
+08.06	Explain how inflation affects different types of investments.
+09.0	Analyze the use of consumer credit and consumer loans. The student will be able to:
+09.01	Identify the role consumer credit has in today’s economy.
+09.02	Compare sources of consumer credit.
+09.03	Compare sources and application process of consumer loans (i.e. payday loans, student loans, line-of-credit, and auto loans).
+09.04	Analyze the benefits and cost of consumer credit.
+09.05	Analyze the risks and consequences of consumer credit (i.e., bankruptcy, foreclosure, co-signing, lower credit score and lower credit worthiness).
+09.06	Explain factors that affect credit worthiness and determine one’s credit score.
+09.07	Explain the alternatives to using consumer credit and to avoiding credit problems (i.e., cash, layaway, and planned savings for a large purchase).
+09.08	Identify ways to correct credit problems.
+09.09	Identify credible sources to assist with credit problems.
+09.10	Research credit reporting agencies to check accuracy of your credit report.
+09.11	Compute interest rates by various mechanisms (i.e. simple, compound, APR)
+
+
+

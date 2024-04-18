@@ -1,0 +1,69 @@
+Course Number: MEA0521
+Occupational Completion Point: C
+Phlebotomist, MA – 75 Hours – SOC Code 31-9097
+16.0	Demonstrate accepted professional, communication, and interpersonal skills as related to phlebotomy. – The student will be able to:
+16.01	Demonstrate the appropriate professional behavior of a phlebotomist.
+16.02	Explain to the patient the procedure to be used in specimen collection.
+16.03	Explain in detail the importance of identifying patients correctly when drawing blood.
+16.04	Describe the scope of practice for a phlebotomist.
+16.05	List and describe professional organizations that provide accreditation, certification, and licensure to phlebotomists and phlebotomy programs.
+16.06	Explain the importance of continuing education in relation to certification to maintain competency and skills.
+17.0	Discuss phlebotomy in relation to the health care setting. – The student will be able to:
+17.01	List, classify and discuss various departments and services within the health care setting with which the phlebotomist must interact to obtain laboratory specimens from patients.
+17.02	Identify the major departments/sections within the clinical laboratory, the major types of procedures run in each department/section, and their specimen requirements.
+17.03	Describe roles of the major classifications of clinical laboratory personnel (i.e., pathologist, chief/administrative technologist, CLS, MLS, MLT, MT, phlebotomist, lab assistant, etc.).
+18.0	Identify the anatomic structure and function of body systems in relation to services performed by a phlebotomist. – The student will be able to:
+18.01	Describe and define major body systems with emphasis on the circulatory system.
+18.02	List and describe the main superficial veins used in performing venipuncture.
+18.03	 Locate the most appropriate site(s) for both capillary and venipuncture.
+18.04	Describe the function of the following blood components:  erythrocytes, thrombocytes, leukocytes and plasma.
+18.05	Compare and contrast between serum and plasma as it relates to blood collection.
+18.06	Discuss hemostasis as it relates to blood collection.
+19.0	Recognize and identify collection reagents supplies, equipment and interfering chemical substances. – The student will be able to:
+19.01	Identify and discuss proper use of appropriate types of equipment needed to collect various clinical laboratory blood specimens by venipuncture.
+19.02	Explain the special precautions and types of equipment needed to collect blood from a pediatric patient.
+19.03	Identify and discuss proper use of supplies used in collecting short-draw specimens or difficult draws.
+19.04	Identify and discuss the proper use of the various types of anticoagulants, preservatives and gels used in blood collection and the vacuum tube color-codes for these additives.
+19.05	Describe the types of specimens that are analyzed in the clinical laboratory and the phlebotomist's role in collecting and/or transporting these specimens to the laboratory.
+19.06	Describe substances potentially encountered during phlebotomy which can interfere in analysis of blood constituents.
+19.07	Define and utilize correct medical terminology and metric measurement needed for specimen collection.
+20.0	Demonstrate skills and knowledge necessary to perform phlebotomy. – The student will be able to:
+20.01	Follow approved procedure for completing a laboratory requisition form.
+20.02	Recognize a properly completed requisition.
+20.03	Demonstrate knowledge of established protocol for patient and specimen identification.
+20.04	Discuss appropriate methods for facilitating and preparing the patient for capillary and venipuncture collection.
+20.05	List appropriate antiseptic agents useful in preparing sites for capillary and venipuncture.
+20.06	Perform venipuncture by evacuated tube, butterfly, and syringe systems, demonstrating appropriate use of supplies, proper handling of equipment and specimens, and appropriate patient care.
+20.07	Describe the correct order of draw.
+20.08	Describe the use of barcoding systems used for specimen collection.
+20.09	 Perform a capillary puncture using appropriate supplies and techniques for both adults and pediatric patients.
+20.10	Describe the most common complications associated with capillary and venipuncture, their causes, prevention and treatment.
+20.11	Recognize and respond to possible adverse patient reactions such as allergies, convulsions, syncope, light headedness, vomiting, and nerve involvement.
+20.12	Perform appropriate procedures for disposing of used or contaminated capillary and venipuncture supplies.
+20.13	Perform appropriate techniques for making a peripheral blood smear for hematologic evaluation.
+20.14	Demonstrate the proper procedure for collecting blood cultures.
+20.15	Discuss the effects of hemolysis and methods of prevention.
+20.16	Demonstrate a working understanding of how age and weight of patients impacts the maximum amount of blood that can be safely drawn.
+21.0	Practice infection control following standard precautions. – The student will be able to:
+21.01	Define the term hospital acquired infection.
+21.02	Describe and practice procedures for infection prevention including hand washing skills.
+21.03	Discuss transmission based precautions.
+21.04	Identify potential routes of infection and their complications.
+22.0	Practice accepted procedures of transporting, accessioning and processing specimens.  – The student will be able to:
+22.01	Demonstrate good laboratory practice for preparation and processing (e.g.  centrifugation, separation, aliquoting, labeling, and storage) of serum, plasma, urine, sputum, stool, and wound culture specimens.
+22.02	Demonstrate knowledge of accessioning procedures.
+22.03	 Describe the significance of time constraints for specimen collection and delivery.
+22.04	Describe routine procedures for transporting and processing specimens including DOT packaging requirements.
+22.05	Follow protocol for accepting verbal test orders and explain procedure for obtaining signature or other form of authentication of verbal orders.
+23.0	Practice quality assurance and safety. – The student will be able to:
+23.01	Distinguish and perform procedures which ensure reliability of test results when collecting blood specimens.
+23.02	Practice appropriate patient safety.
+23.03	Practice safety in accordance with OSHA (state & federal guidelines) for chemical, biological, and PPE established procedures including proper disposal of sharps and biohazardous materials.
+23.04	Follow documentation procedures for work related accidents.
+23.05	Implement appropriate Joint Commission patient safety goals and other accrediting/regulatory agency guidelines.
+24.0	Describe the role of a medical assistant with intravenous therapy in oncology and dialysis. – The student will be able to:
+24.01	Outline the principles of intravenous therapy.
+24.02	Understand intravenous terminology, practices, and equipment.
+24.03	Describe the dangers of intravenous treatment.
+24.04	Describe the role of the medical assistant in assisting with intravenous therapy.
+

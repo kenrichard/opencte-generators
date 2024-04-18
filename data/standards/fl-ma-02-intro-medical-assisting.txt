@@ -1,0 +1,21 @@
+12.0	Demonstrate proper use of medical terminology. – The student will be able to:
+12.01	 Use medical terminology as appropriate for a medical assistant.
+12.02	Identify medical terms labeling the word parts.
+12.03	Define medical terms and abbreviations related to all body systems.
+13.0	Demonstrate knowledge of legal and ethical responsibilities for medical assistants. – The student will be able to:
+13.01	Describe the role of the medical assistant.
+13.02	Understand the importance of order entry as it relates to certification of the medical assistant.
+13.03	Provide health care as set forth in Florida Statute 458.3485 for the medical assistant.
+13.04	Distinguish between the liability of the physicians and staff members in the medical office.
+13.05	Explain the principles for preventing medical liability.
+13.06	List the principles in the Codes of Ethics for Medical Assistants as stated by the American Association of Medical Assistants.
+14.0	Demonstrate an understanding of anatomy and physiology concepts in both illness and wellness states. – The student will be able to:
+14.01	Define the terms Anatomy and Physiology
+14.02	Define both medical terms and abbreviations related to all body systems.
+14.03	Define the principle directional terms, planes, quadrants and cavities used in describing the body and the association of body parts to one another.
+14.04	Define the levels of organization of the body inclusive of, but not limited to, cells, organs and body systems.
+14.05	Describe the function of the 11 major organ systems of the body (1) Integumentary, (2) skeletal, (3) muscular, (4) Nervous, (5) endocrine, (6) circulatory (cardiovascular) (7) lymphatic, (8) respiratory, (9) digestive, (10) urinary, and (11) reproductive.
+14.06	Describe symptoms and common disease pathology related to each body system and the relationship of the disease process to other body systems.
+14.07	Discuss diagnostic options to identify common disease pathology and corresponding basic treatment.
+14.08	Compare structure and function of the body across the life span.
+

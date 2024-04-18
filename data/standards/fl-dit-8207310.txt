@@ -1,0 +1,146 @@
+2023 – 2024
+Florida Department of Education
+Student Performance Standards
+
+Course Title:		Digital Information Technology
+Course Number:	8207310
+Course Credit:	1
+
+Course Description:
+
+This core course is designed to provide a basic overview of current business and information systems and trends, and to introduce students to fundamental skills required for today's business and academic environments.  Emphasis is placed on developing fundamental computer skills.  The intention of this course is to prepare students to be successful both personally and professionally in an information-based society.  Digital Information Technology includes the exploration and use of: databases, the internet, social media, spreadsheets, presentation applications, management of personal information and email, word processing and document manipulation, HTML, web page design, and the integration of these programs using software that meets industry standards.
+
+To teach the Digital Information Technology (8207310) course, instructors must hold at least one of the teacher certifications listed below.  It is recommended that teachers hold the most appropriate certification based on the CTE program in which they are assigned.
+
+Course Number
+Course Title
+Teacher Certification
+Length
+Level
+Graduation Requirement
+8207310
+Digital Information Technology
+ACCTING @7  7 G
+BANK FINC @7 7 G
+BUS ED 1 @2
+COMM ART @7 7 G
+COMP PROG 7 G
+COMPU SCI 6
+CYBER TECH 7 G
+INFO TECH 7 G
+MANAG SUPV 7 G
+MKTG 1 @2
+MKTG MGMT 7 G
+WEB DEV 7  G
+1 credit
+2
+PA
+(Graduation Requirement Abbreviations- EQ= Equally Rigorous Science, PA= Practical Arts, EC= Economics)
+
+Course Title:		Digital Information Technology
+Course Number: 	8207310
+
+CTE Standards and Benchmarks
+01.0	Demonstrate knowledge, skill, and application of information technology to accomplish job objectives and enhance workplace performance.  The student will be able to:
+01.01	Develop keyboarding skills to enter and manipulate text and data.
+01.02	Describe and use current computer technology and software to perform personal and business related tasks in the workplace (e.g., e-mail, digital calendars, meetings, appointments).
+01.03	Differentiate between types of file systems and classify common file extensions based on software application programs used in the workplace environment.
+01.04	Utilize the Internet to find reliable resources and reference materials (e.g., on-line help, tutorials, manuals).
+01.05	Apply research strategies to use and evaluate electronic research technologies for valid and reliable information.
+01.06	Demonstrate basic computer file management skills (e.g., naming, saving, retrieving, and organizing).
+01.07	Analyze the process of troubleshooting problems with computer hardware peripherals, including input and output devices.
+01.08	Describe ethical issues and problems associated with computers and information technology (e.g., fair use, privacy, public domain, copyright, piracy, plagiarism).
+01.09	Explain the history and purpose of various operating systems (e.g., DOS, Windows, Mac, and Unix/Linux).
+02.0	Develop an awareness of microcomputers.  The student will be able to:
+02.01	Explain the general architecture of a microcomputer system.
+02.02	Explain the need for and demonstrate proficiency using common peripherals (e.g., printers, mouse, keyboard, external hard drive, flash drive).
+02.03	Examine the concepts of computer maintenance and upgrades.
+03.0	Demonstrate an understanding of networks.  The student will be able to:
+03.01	Differentiate between types of networks and how they work (e.g., clients, servers, Wi-Fi, teleconference)
+03.02	Identify security needs within a network environment (e.g., antivirus software, passwords).
+03.03	Distinguish between intranets, extranets and how they relate to the Internet.
+03.04	Demonstrate basic understanding of cloud computing.
+04.0	Use word processing applications to enhance the effectiveness of various types of documents and communication. The student will be able to:
+04.01	Select and use word processing software and accompanying features to create and enhance various written business communications (e.g., memos, reports, block business letters).
+04.02	Save and export documents in various formats (e.g., pdf, html, blog, hyperlinks).
+04.03	Format text content in a document (e.g., font, paragraph attributes, spacing, text styles, text boxes).
+04.04	Manipulate page layout and reusable content (e.g., page setup, themes, templates, page backgrounds, headers and footers).
+04.05	Perform various image-editing tasks using word-processing software to create and format images, illustrations, shapes, etc.
+04.06	Proofread and revise documents by validating content through the use of word processing tools (e.g. spell check, thesaurus, find/replace, autocorrect settings).
+04.07	Insert citations and hyperlinks, create end and footnotes, and create a table of contents in a document.
+04.08	Perform various mail merge options, macros and tracking revisions.
+04.09	Demonstrate an understanding of fonts (serif and sans serif) and font styles (bold, italic, etc.)
+05.0	Use presentation applications to enhance communication skills.  The student will be able to:
+05.01	Manage and configure the presentation software environment (e.g., adjusting views, manipulating slide settings, configuring toolbar and file options).
+05.02	Use presentation software to format and edit slides (e.g., adding and removing slides, slide layouts, format slide design, insert or format placeholders).
+05.03	Locate, create and incorporate graphical and multimedia elements, including: shapes, graphics, images, bullets, hyperlinks, video, and audio into a slide presentation.
+05.04	Enhance overall visual presentation by applying font selection, design themes, color schemes, templates, etc.
+05.05	Create and manipulate graphical and multimedia elements using additional styles and effects (e.g., color selections, tone, contrast, shadows, picture styles).
+05.06	Demonstrate various business-related elements that can be created, embedded and manipulated in a slide presentation, including: charts, graphs, tables, media, spreadsheets, and illustrations.
+05.07	Customize presentation settings by using appropriate slide transitions and animations (e.g., on click, rehearsed timings)
+05.08	Demonstrate different delivery methods for slide presentations, including: online delivery and sharing, video projection, printing options.
+06.0	Use spreadsheet applications to enhance communication skills. The student will be able to:
+06.01	Manipulate the worksheet by using the ribbon tabs, group settings, importing data/database, manipulating properties, files and folders.
+06.02	Create cell data and apply auto fill.
+06.03	Format cells and worksheets (e.g., by applying and manipulating cell formats, styles, merging and splitting cells, create row and column titles, hide and unhide column titles, rows and columns, page setup options, and manipulating views/themes).
+06.04	Create and analyze formulas and functions (e.g., apply conditional formula logic, name and cell ranges).
+06.05	Create and modify charts and images. (e.g., pivot tables)
+06.06	Share worksheet data through various system (e.g., email, external media, cloud storage, mail merge).
+06.07	Analyze and organize data through filters, sorting and applying conditional formatting. (e.g., macros)
+06.08	Interpret data on line graphs, pie charts, diagrams, and tables.
+07.0	Use database applications to store and organize data. The student will be able to:
+07.01	Create different forms for inputting data into a database application.
+07.02	Interpret queries for specialized reports using a database application.
+07.03	Create and modify a database by importing data from other sources
+07.04	Create and manage database tables by hiding fields, importing data, adding total rows
+07.05	Modify queries by renaming, adding/removing fields, sorting, formatting, and adding calculated fields
+07.06	Create and format reports with multiple columns, calculated fields and images.
+08.0	Use electronic mail to enhance communication skills. The student will be able to:
+08.01	Describe and perform e-mail capabilities and functions (e.g., create, send, & forward messages, organize email folders, manage signature and automated messages, configure message sensitivity, security and delivery options).
+08.02	Perform e-mail activities (e.g., attach external files, save e-mail attachments, view mailbox details, schedule appointments, create contact groups).
+08.03	Demonstrate an understanding of the ethical issues associated with electronic correspondences (e.g., employer’s ownership of email, public access of government email, appropriate uses in the workplace, phishing attacks, permanence of electronic communications on the internet).
+08.04	Describe the need for and appropriate use of electronic mailing list software applications (e.g., listserv)
+09.0	Investigate individual assessment and job/career exploration and individual career planning that reflect the transition from school to work, lifelong learning, and personal and professional goals.  The student will be able to:
+09.01	Analyze personal skills and aptitudes in comparison with various business related job and career options. (i.e., hard and soft skills)
+09.02	Use career resources to develop and analyze occupations and opportunities for internships, continuing education and on-the-job training.
+09.03	Exhibit job-seeking skills required for entry-level employment, including resume, online job search, cover letter, online/hard copy application, mock interview, interview thank you letter, and follow-up call.
+09.04	Design, implement, and evaluate a plan to facilitate growth and skill development related to anticipated job requirements and career expectations.
+09.05	Demonstrate an awareness of specific job requirements and career paths (e.g., education, certifications, skills, previous experience) in business environments.
+09.06	Demonstrate an awareness of the potential impact of local and global trends on career plans and life goals.
+09.07	Describe the importance of building community and mentor relationships in a variety of professional and workplace situations.
+09.08	Simulate work-based projects in an information technology environment
+10.0	Incorporate appropriate leadership and supervision techniques, customer service strategies, and standards of personal ethics to accomplish job objectives and enhance workplace performance.  The student will be able to:
+10.01	Demonstrate awareness of the following workplace essentials:  quality customer service; business ethics; confidentiality of information; copyright violations; accepted workplace rules, regulations, policies, procedures, processes, and workplace safety, and appropriate attire and grooming.
+10.02	Demonstrate ways of accepting and providing constructive criticism to enhance team projects.
+10.03	Apply appropriate strategies to manage and resolve conflicts in work situations.
+10.04	Demonstrate personal and interpersonal skills appropriate for the workplace (e.g., responsibility, dependability, punctuality, integrity, positive attitude, initiative, respect for self and others, and professional dress).
+11.0	Demonstrate competence using computer networks, internet and online databases to facilitate collaborative or individual learning and communication.  The student will be able to:
+11.01	Demonstrate how to connect to the Internet and identify and describe web terminology, addresses and how browsers work.
+11.02	Demonstrate proficiency using basic features of GUI (Graphical User Interface) browsers, including: bookmarks, basic configurations, e-mail configurations, and address books.
+11.03	Describe appropriate browser security configurations
+11.04	Describe information technology terminology, including Internet, intranet, ethics, copyright laws, and regulatory control.
+11.05	Demonstrate proficiency using search engines and search tools (e.g., Boolean search strategies)
+11.06	Use various web tools, including: downloading files, transfer of files, extensions, PDF, plug-ins, and data compression.
+11.07	Differentiate between different domain extensions (e.g., .com, .org, .gov, .edu, etc.)
+12.0	Develop awareness of computer languages, web-based & software applications, and emerging technologies.  The student will be able to:
+12.01	Compare and contrast the appropriate use of various software applications.  (e.g., word processing, desktop publishing, graphic design, web browser, e-mail, presentation, database, scheduling, financial management, Java applet, music)
+12.02	Explain and describe the need for web-based applications (e.g., sharing photos and video clips, messaging, chatting and collaborating.
+12.03	Express an understanding of basic terminology used in programming (e.g., algorithm, binary, code, block-based, objects, functions)
+12.04	Compare and contrast emerging technologies and describe how they impact business in the global marketplace (e.g., wireless network, tablets, cell phones, satellite technology, nanotechnology, smart devices, home networks).
+13.0	Demonstrate an understanding of basic html by creating a simple web page. The student will be able to:
+13.01	Create a basic web page.
+13.02	Use basic storyboarding techniques.
+13.03	Use basic functions of WYSIWYG editors.
+13.04	Use basic functions of HTML, DHTML, and XML editors and converters.
+13.05	Enhance web pages through the addition of images and graphics.
+14.0	Demonstrate comprehension and communication skills.  The student will be able to:
+14.01	Read and comprehend technical and non-technical reading assignments related to course content (e.g., manuals, books, magazines, electronic sources).
+14.02	Use verbal and nonverbal skills to communicate effectively with supervisors, co-workers, and customers.
+14.03	Demonstrate an understanding of the writing process to create business documents (e.g., research methods, paper formatting (MLA/APA))
+14.04	Demonstrate an awareness of project management concepts and tools (e.g., timelines, deadlines, resource allocation, time management, delegation of tasks, collaboration).
+15.0	Use social media to enhance online communication and develop an awareness of a digital footprint. The student will be able to:
+15.01	Create and develop a professional social media presence (e.g., LinkedIn) to connect with potential employers, follower influencers, enhance networking opportunities, develop soft skills through written communication, and establish a professional business image.
+15.02	Cultivate and manage awareness of digital identity and reputation.
+15.03	Develop awareness of the permanence of actions and social awareness in the digital world.
+15.04	Develop awareness of data-collection technology contributing to their digital footprint.
+

@@ -1,0 +1,51 @@
+Course Number: MEA0581
+Occupational Completion Point: E
+Clinical Assisting – 230 Hours – SOC Code 31-9092
+29.0	Demonstrate basic office examination procedures. – The student will be able to:
+29.01	Prepare patients for and assist the physician with physical examinations including, but not limited to, pre and post-natal, male and female reproductive, rectal, and pediatric.
+29.02	Measure and record vital signs, recognizing abnormalities and danger signs.
+29.03	Measure and record a pulse pressure
+29.04	Measure and record an apical pulse.
+29.05	Measure and record a orthostatic blood pressure
+29.06	Record patient data.
+29.07	Instruct patient on breast and testicular self-examinations.
+29.08	Assist with pediatric procedures, including, but not limited to, weighing, measuring, and collecting specimens.
+29.09	Instruct patients regarding health care and wellness practices including but not limited to dietary guidelines necessary for common diseases.
+29.10	Create a patient teaching plan which addresses dietary guidelines and special needs.
+29.11	Explore and utilize the U.S. Department of Agricultures “My Plate” Food Guide (www.chosemyplate.gov).
+29.12	Prepare patients for diagnostic procedures.
+30.0	Demonstrate knowledge of the fundamentals of microbial control and use aseptic techniques. – The student will be able to:
+30.01	Demonstrate competence in sanitation, disinfection, and sterilization.
+30.02	Identify common instruments.
+30.03	Sterilize and maintain instruments and supplies.
+30.04	Sanitize instruments.
+30.05	Wrap articles for autoclave.
+30.06	Sterilize articles in autoclave.
+30.07	Chemically disinfect articles.
+30.08	Practice infection control and contamination prevention.
+30.09	Safely handle contaminated equipment and supplies.
+30.10	Create and maintain sterile fields for dressings and minor surgery.
+30.11	Prepare for minor surgical procedures including surgical hand wash and applying sterile gloves.
+30.12	Remove sutures and staples.
+30.13	Correctly dispose of contaminated materials.
+31.0	Demonstrate minor treatments. – The student will be able to:
+31.01	Perform minor treatments as directed by the physician including hot and cold therapy, (which includes, but is not limited to the following:  hot water bag, heating pad, hot soaks and compresses, ice bag, cold compresses and packs).
+31.02	Assist the physician with examination, treatment, and/or minor surgery.
+31.03	Organize examination and treatment areas before, during, and after patient care.
+31.04	Perform orthopedic procedures, including but not limited to the following:  crutch measurements and instruction in use of canes, crutches, walkers, and wheelchairs.
+31.05	Demonstrate the knowledge of casting procedures and supplies.
+31.06	Apply all types of roller bandages using turns as appropriate.
+31.07	Perform eye irrigations and instillations.
+31.08	Perform ear irrigations and instillations.
+32.0	Demonstrate knowledge of basic diagnostic medical assisting procedures. – The student will be able to:
+32.01	Perform visual and auditory screening.
+32.02	Perform spirometry.
+32.03	Perform oximetry.
+32.04	Assist in the performance of a pap and pelvic exam.
+33.0	Demonstrate basic radiologic procedures. – The student will be able to:
+33.01	 Describe the basic operation of radiology equipment and accessories.
+33.02	 Describe how to maintain x-ray film files.
+33.03	Describe computed and digital radiography systems.
+33.04	Educate patients in preparation for radiological exams.
+33.05	Demonstrate knowledge of ultrasound treatment.
+
