@@ -2,7 +2,7 @@ from app.generators.course_themes.course_themes import course_themes
 from app.generators.lesson_quiz.quiz import generate_quiz
 from app.generators.lesson_vocab.vocab import generate_vocab
 from app.models.course import load_all_courses
-from app.models.lessons import load_lessons, save_lesson
+from app.models.lessons import load_lessons
 from app.models.units import load_units
 
 from app.generators.unit_stubs.outline import generate_outline

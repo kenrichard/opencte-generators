@@ -49,7 +49,7 @@ def prompt_unit_skills(unit_standards):
 Review the educational standards below.
 
 Evaluate the content and determine if there are any
-concepts or skills, skills, or procedures.
+concepts, skills, or procedures.
 
 Create a list of concepts the student should understand.
 Create a list of skills the student should acquire.

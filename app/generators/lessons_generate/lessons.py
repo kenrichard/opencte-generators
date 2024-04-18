@@ -1,4 +1,3 @@
-import logging
 from app.models.course import load_course
 from app.models.lessons import save_new_lessons
 from app.utils.flatten import list_to_text, unit_standards_to_text
